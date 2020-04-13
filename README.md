@@ -13,18 +13,16 @@ Apart from the described techniques, we did explore other options as well such a
 
 Though, not they did not perform that well, we would be sharing there implementations as well. 
 
-*Please Note*
-
-Plotly figures are not rendered in Github's view, so EDA in the notebook might seem incomplete. Here, are some images though,
-
+*Please Note*  Plotly figures are not rendered in Github's view, so EDA in the notebook might seem incomplete. Here, are some images though,   
+![alt text](https://raw.githubusercontent.com/gaurav1209/Janta-Hack/master/plots/label-dist.png)
+![alt text](https://raw.githubusercontent.com/gaurav1209/Janta-Hack/master/plots/a_hist.png)
 
 
 We will share detailed EDA Inference as well.
 
 
 **Team:** Victorious Secret   
-**Team Members**   
-Vasudev Awatramani and Gaurav Aggarwal
+**Team Members:** Vasudev Awatramani and Gaurav Aggarwal
 
 
 
