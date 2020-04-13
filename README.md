@@ -18,7 +18,7 @@ Though, not they did not perform that well, we would be sharing there implementa
 ![alt text](https://raw.githubusercontent.com/gaurav1209/Janta-Hack/master/plots/a_hist.png)
 
 
-We will share detailed EDA Inference as well.
+We will share the EDA Inference as well.
 
 
 **Team:** Victorious Secret   
