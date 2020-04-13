@@ -1,5 +1,7 @@
 # Janta Hack
 
+E-Commerce Data Analysis Hackathon
+
 We are thankful to Analytics Vidhya for organising this Machine Learning Competition, during the lockdown period due to COVID-19.  
 
 We are grateful to all the CoronaFighters that are serving our nation in such tough times. Our deepest regards to them and their families.
