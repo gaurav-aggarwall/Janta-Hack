@@ -10,12 +10,16 @@ We are grateful to all the CoronaFighters that are serving our nation in such to
 [Janta_Hack](./Janta_Hack.ipynb) summarises our submission for the hackathon and [final_sub.csv](./final_sub.csv) is the final submission CSV. Our approaches have been briefly described in the notebook.   
 
 Apart from the described techniques, we did explore other options as well such as 
-- Automated Machine Learning
-- Feed Forward Neural Networks
+- Automated Machine Learning using H20.ai
+- Feed Forward Neural Networks using Fastai.
 
 Though, not they did not perform that well, we would be sharing there implementations as well. 
 
 *Please Note:*  Plotly figures are not rendered in GitHub's online view, so EDA section in the notebook might seem incomplete. Here, are some images though,   
+
+
+
+
 ![alt text](https://raw.githubusercontent.com/gaurav1209/Janta-Hack/master/plots/label-dist.png)
 ![alt text](https://raw.githubusercontent.com/gaurav1209/Janta-Hack/master/plots/a_hist.png)
 
